@@ -47,6 +47,7 @@ class HouseInfo {
 //   "assets/gal-9.jpeg",
 //   "assets/gal-10.jpeg",
 // ];
+// List of houses for gallary
 // List _place = [
 //   "assets/house-1.jpeg",
 //   "assets/house-2.jpeg",
